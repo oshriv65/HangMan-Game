@@ -11,7 +11,7 @@
 ## General info
 - This project is simple "Hangman" game, i created that as part of my course i toke in python :smile:.
 - In this game you need to guess the word, letter by letter until you got the full word.
-- you have 7 tries but you can change thr number of tries in the code, that up to you.
+- you have 7 tries but you can change the number of tries in the code, that up to you.
 	
 ## Technologies
 Project is created with:
@@ -29,7 +29,7 @@ Project is created with:
 
 ## Setup
 1. To run this project, you need just to install python
-2. Make sure to get the correct path to the word.text! (The structre go like this: ~/"the folder you put the file"/words.txt).
+2. Make sure to get the correct path to the word.text! (The structure go like this: ~/"the folder you put the file"/words.txt).
 3. run the script through the cmd/terminal, because the game is display in console promote.
 
 example of run code:
