@@ -9,7 +9,7 @@
 * [Contact](#contact)
 
 ## General info
-- This project is simple "Hangman" game, i created that as part of my course i toke in python :).
+- This project is simple "Hangman" game, i created that as part of my course i toke in python :smile:.
 - In this game you need to guess the word, letter by letter until you got the full word.
 - you have 7 tries but you can change thr number of tries in the code, that up to you.
 	
@@ -38,4 +38,4 @@ $ cd ../"The folder where the HangManGame file is located"
 $ python HangManGame.py
 ```
 ## Contact
-Created by Oshri Agronov, feel free to contact me!
+Created by Oshri Agronov, feel free to contact me :smile:
