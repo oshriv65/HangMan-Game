@@ -11,12 +11,11 @@ In this game you need to guess the word, letter by letter until you got the full
 you have 7 tries but you can change thr number of tries in the code, that up to you.
 	
 ## Technologies
-###Project is created with:
+Project is created with:
 * python version: 3.9
 * visual studio code
-###Libarys used n this project:
-* os - used to create a shortcut to the path of the file "word" , where all the words to guess are.
-* time - used to create delay between renders so the user could manage to see the results
+* os - Library used to create a shortcut to the path of the file "word" , where all the words to guess are.
+* time - Library used to create delay between renders so the user could manage to see the results
 	
 ## Setup
 To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote. 
