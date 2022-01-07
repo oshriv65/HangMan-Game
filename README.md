@@ -1,5 +1,5 @@
 # Project HangMan (Game) - written in python
-
+[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
