@@ -38,4 +38,4 @@ $ cd ../"The folder where the HangManGame file is located"
 $ python HangManGame.py
 ```
 ## Contact
-Created by Oshri Agronov, feel free to contact me :smile:
+Created by Oshri Agronov, feel free to contact me :v:
