@@ -25,7 +25,7 @@ Project is created with:
 - The number of guesses are changeable by change the number in "MAX_TRIES" variable
 
 ## Screenshots
-![Example screenshot](.opening.png)
+![Example screenshot](./opening .png)
 
 ## Setup
 To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote.
