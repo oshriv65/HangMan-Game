@@ -28,8 +28,10 @@ Project is created with:
 ![Example screenshot](./img/opening.png)
 
 ## Setup
-To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote.
-Make sure to put the correct path to the word.text! (The structre go like this: ~/Documents/words.txt).
+1. To run this project, you need just to install python
+2. Make sure to get the correct path to the word.text! (The structre go like this: ~/"the folder you put the file"/words.txt).
+3. run the script through the cmd/terminal, because the game is display in console promote.
+
 example of run code:
 ```
 $ cd ../"The folder where the HangManGame file is located"
