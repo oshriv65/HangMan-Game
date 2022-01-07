@@ -6,7 +6,7 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple "Hangman" game, i created that as part of my course i toke in python.
+This project is simple "Hangman" game, i created that as part of my course i toke in python.\n
 In this game you need to guess the word, letter by letter until you got the full word!,
 you have 7 tries but you can change thr number of tries in the code, that up to you.
 	
