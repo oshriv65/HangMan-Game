@@ -3,6 +3,8 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
+* [Features](#features)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
 
 ## General info
@@ -16,9 +18,14 @@ Project is created with:
 * visual studio code
 * os - Library used to create a shortcut to the path of the file "word" , where all the words to guess are.
 * time - Library used to create delay between renders so the user could manage to see the results
-	
+
+## Features
+- You can add more words to guess, by adding them to "word.text" file!
+- The number of guesses are changeable by change the number in "MAX_TRIES" variable
+
 ## Setup
-To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote. 
+To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote.
+Make sure to put the correct path to the word.text! (The structre go like this: ~/Documents/words.txt)
 example of run code:
 ```
 $ cd ../"The folder where the HangManGame file is located"
