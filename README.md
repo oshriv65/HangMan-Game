@@ -19,9 +19,8 @@ Libarys used n this project:
 * time - used to create delay between renders so the user could manage to see the results
 	
 ## Setup
-To run this project, you need just to install python and run it through the cmd/terminal, because the game
-is display in console promte.
-examplae of run code:
+To run this project, you need just to install python and run it through the cmd/terminal, because the game is display in console promote. 
+example of run code:
 ```
 $ cd ../HangManGame.py
 $ python HangManGame.py
