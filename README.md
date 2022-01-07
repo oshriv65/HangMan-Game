@@ -26,6 +26,7 @@ Project is created with:
 
 ## Screenshots
 ![Example screenshot](./img/opening.png)
+- The number bottom left is the number of tries you have.
 
 ## Setup
 1. To run this project, you need just to install python
