@@ -36,6 +36,12 @@ example of run code:
 ```
 $ cd ../"The folder where the HangManGame file is located"
 $ python HangManGame.py
+$ Enter the destenation to check: ~/Documents/words.txt
+$ Please enter an index: 5
+$ Lets Start!
+  _  _  _  _  _  _  _ 
+
+ Enter the guessed letter: 
 ```
 ## Contact
 Created by Oshri Agronov, feel free to contact me :v:
