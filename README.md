@@ -7,6 +7,8 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
+* [Project Status](#project-status)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 ## General info
@@ -44,5 +46,14 @@ $ Lets Start!
 
  Enter the guessed letter: 
 ```
+
+## Project Status
+The project is completed but no longer get updated, because it was part of a course i took, and i moved on to other courses to expand my knowledge ⚡.
+i hope you enjoy my work 😄.
+
+## Acknowledgements
+- I would want to thank CampusIL and the team behind the Self.py course!
+> Link to the course home page [here](https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/)
+
 ## Contact
 Created by Oshri Agronov, feel free to contact me :v:
