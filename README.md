@@ -49,7 +49,6 @@ $ Lets Start!
 
 ## Project Status
 The project is completed but no longer get updated, because it was part of a course i took, and i moved on to other courses to expand my knowledge ⚡.
-i hope you enjoy my work 😄.
 
 ## Acknowledgements
 I would want to thank CampusIL and the team behind the Self.py course!
