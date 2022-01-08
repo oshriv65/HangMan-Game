@@ -52,7 +52,7 @@ The project is completed but no longer get updated, because it was part of a cou
 i hope you enjoy my work 😄.
 
 ## Acknowledgements
-- I would want to thank CampusIL and the team behind the Self.py course!
+I would want to thank CampusIL and the team behind the Self.py course!
 > Link to the course home page [here](https://campus.gov.il/course/course-v1-cs-gov_cs_selfpy101/)
 
 ## Contact
