@@ -1,6 +1,6 @@
 # HangMan Game - Project written in python
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)[![macOS](https://svgshare.com/i/ZjP.svg)](https://svgshare.com/i/ZjP.svg)[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-> This project is simple "Hangman" game, i created that as part of my course i toke in python :smile:.
+> The project is a simple "Hangman" game, i created that as part of my course i took in python :smile:.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -31,9 +31,9 @@ Project is created with:
 ## Setup
 1. To run this project, you need just to install python
 2. Make sure to get the correct path to the word.text! (The structure go like this: ~/"the folder you put the file"/words.txt).
-3. run the script through the cmd/terminal, because the game is display in console promote.
+3. Run the script through the cmd/terminal, because the game is display in console promote.
 
-example of run code:
+Example of the script run:
 ```
 $ cd ../"The folder where the HangManGame file is located"
 $ python HangManGame.py
