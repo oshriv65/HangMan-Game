@@ -1,6 +1,6 @@
 # HangMan Game - Project written in python
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)<br>
-The project is a simple "Hangman" game, i created that as part of my course I took in python :smile:.
+The project is a simple "Hangman" game. I created that as part of my course I took in python :smile:.
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
