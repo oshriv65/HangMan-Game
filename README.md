@@ -38,7 +38,11 @@ Project is created with:
 Example of the script run:
 ```
 $ cd ../<The folder where the HangManGame file is located>
+```
+```
 $ python HangManGame.py
+```
+```
 $ Enter the destination to check: ~/Documents/words.txt
 $ Please enter an index: 5
 $ Let's Start!
